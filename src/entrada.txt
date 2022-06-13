@@ -1,0 +1,11 @@
+int funcAux(int x, int p);
+
+int main() {
+    int z = 3;
+    return 0;
+}
+
+int funcAux(int x, int p) {
+    int a = 3;
+    return a;
+}
